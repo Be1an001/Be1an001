@@ -24,5 +24,5 @@ data problems with both an engineering mindset and a communication-first approac
 
 ---
 📍 Taiwan &nbsp;|&nbsp; 📧 akbakb480000@gmail.com &nbsp;|&nbsp; 
-[LinkedIn](www.linkedin.com/in/cheng-liu-analytics) &nbsp;|&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/cheng-liu-analytics/) &nbsp;|&nbsp; 
 [Streamlit App](https://salifort-retention-risk-explorer.streamlit.app/)
