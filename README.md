@@ -1,7 +1,7 @@
 ## Hi, I'm Cheng Liu :)
 
-Analytics graduate from Northeastern University, Silicon Valley (GPA 3.93, Applied Machine Intelligence).  
-Previously a Java software engineer. Now focused on data analysis, machine learning, and building 
+Analytics graduate from Northeastern University, Silicon Valley (Applied Machine Intelligence).  
+Previously a Java software engineer in Taipei. Now focused on data analysis, machine learning, and building 
 decision-support tools that people can actually use.
 
 ### What I work with
