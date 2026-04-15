@@ -10,7 +10,7 @@ decision-support tools that people can actually use.
 - **Tools:** Tableau, Streamlit, MySQL, Jupyter, Git, Hadoop  
 
 ### A few things I've built
-- **Salifort Motors Attrition App** - retention screening model extended into a working Streamlit app 
+- **Salifort Motors Attrition App** — retention screening model extended into a working Streamlit app 
   (threshold tuning, SHAP views, department exposure)  
 - **Semiconductor Pass/Fail Prediction** — leakage-safe ML workflow on UCI SECOM sensor data  
 - **Flight Delay Analytics** — transformed raw shipment records into a Tableau dashboard for 
